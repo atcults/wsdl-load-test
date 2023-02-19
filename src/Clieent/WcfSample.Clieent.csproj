@@ -8,7 +8,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\WcfSample.Common\WcfSample.Common.csproj" />
+	  <ProjectReference Include="..\Common\WcfSample.Common.csproj" />
 	</ItemGroup>
 
 </Project>

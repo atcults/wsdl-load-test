@@ -5,9 +5,9 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WcfSample.Server", "Server\WcfSample.Server.csproj", "{BC2CBEBC-0E94-4F87-BCD8-44A4A0B0B1BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSample.Clieent", "WcfSample.Clieent\WcfSample.Clieent.csproj", "{D34DF721-0CB8-4470-ADBD-6122F1BA0F38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSample.Clieent", "Clieent\WcfSample.Clieent.csproj", "{D34DF721-0CB8-4470-ADBD-6122F1BA0F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSample.Common", "WcfSample.Common\WcfSample.Common.csproj", "{8EEDD36C-9CFA-4CFB-BD4A-4473D9904172}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSample.Common", "Common\WcfSample.Common.csproj", "{8EEDD36C-9CFA-4CFB-BD4A-4473D9904172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
